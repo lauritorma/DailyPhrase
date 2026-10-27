@@ -1,0 +1,20 @@
+[
+  {
+    "id": "damp-squib",
+    "text": "a damp squib",
+    "meaning": "Something that disappoints after promising to be exciting.",
+    "sourceUrl": "https://dictionary.cambridge.org/dictionary/english/damp-squib"
+  },
+  {
+    "id": "pig-in-a-poke",
+    "text": "a pig in a poke",
+    "meaning": "Something bought or accepted without checking it first.",
+    "sourceUrl": "https://dictionary.cambridge.org/dictionary/english/pig-in-a-poke"
+  },
+  {
+    "id": "hook-or-crook",
+    "text": "by hook or by crook",
+    "meaning": "Finding a way to achieve something, whatever method it takes.",
+    "sourceUrl": "https://dictionary.cambridge.org/dictionary/english/by-hook-or-by-crook"
+  }
+]
